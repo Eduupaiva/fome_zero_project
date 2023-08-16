@@ -19,7 +19,7 @@ st.set_page_config( page_title='Visão Geral', page_icon='📊', layout='wide' )
 #=================================================================
 #                 IMPORTAÇÃO DE DADOS
 #=================================================================
-df = pd.read_csv(r'C:\Users\dudup\Documents\Comunidade Ds\Projeto Do Aluno\zomato.csv')
+df = pd.read_csv('zomato.csv')
 
 df1 = df.copy()
 
