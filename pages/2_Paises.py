@@ -173,7 +173,7 @@ with st.container():
 with st.container():
     col1, col2 = st.columns (2, gap='large' )
     with col1:
-        st.markdown( '#### Média de Avaliações Feitas por Paíse' )
+        st.markdown( '#### Média de Avaliações Feitas por Países' )
         #Fazendo o agrupamento de paises e contando o numero de avaliações registradas
         country_by_votes = df1.loc[:,['Votes', 'Country Name']].groupby(['Country Name']).mean().sort_values(['Votes'], ascending=False).reset_index()
         
