@@ -23,7 +23,7 @@ st.markdown(
     A análise abrange avaliações, localização, preços médios e muitas outras informações interessantes sobre os restaurantes. O código Python bem organizado e as visualizações interativas permitem uma compreensão completa dos insights obtidos. Dê uma olhada nos resultados e surpreenda-se com a riqueza de informações ocultas nos dados dos restaurantes.
     Esse Dashboard foi construído para que seja possivel obter de forma segmentada informações pertinentes referente ao Marketplace de restaurantes Fome Zero de forma que os dados apresentados possam servir de apoio para que seja possivel  tomar as melhores decisões estratégicas
             
-            ### Como utilizar esse Dashboard?
+             Como utilizar esse Dashboard?
                 — Geral:
                     — Visão Geral: Países cadastrados e informações gerais sobre o conjunto de dados.                    
                 — Visão Países:
